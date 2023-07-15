@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PorterScobey
+- 👋 Hi, I’m @PorterScobey (on Twitter)
 - 👀 I’m interested in learning more about C++, Java, Python, HTML, CSS, JavaScript, PHP, 
 things I know something about already, as well as Go and Rust, about which I currently know nothing.
 - 🌱 I’m currently learning Git in order to teach my students how to use it.
